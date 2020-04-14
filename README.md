@@ -1,0 +1,1 @@
+Here in this programme if you input tamperature programme will return how many ice-creams will be sold.
